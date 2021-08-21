@@ -9,3 +9,6 @@ Indecibilidad
 Metodo de Diagonalizacion
 Un Lenguaje Indecidible
 Una Maquina de Turing-Reconocible
+
+Video de la presentacion
+https://www.youtube.com/watch?v=ZeMcORRUuYQ
